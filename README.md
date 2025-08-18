@@ -1,10 +1,7 @@
 # Crazyscan
 Crazyscan is a fast and simple Python-based port scanner with customizable IP, ports, and timeout options.
 
-
-# Crazyscan
-
-Crazyscan is a lightweight and beginner-friendly Python tool for scanning open ports on a target machine.  
+this is a lightweight and beginner-friendly Python tool for scanning open ports on a target machine.  
 It allows you to specify an IP address, scan common or custom ports, and adjust timeout values for faster results.
 
 ## Features
