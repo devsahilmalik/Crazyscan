@@ -85,7 +85,7 @@ def banner():
 
 
 if args.version:
-  print("Crazyscan version 1.2")
+  print("Crazyscan version 1.1")
 elif args.ip:
   banner()
   print(f"Scanning on target ip {args.ip}")
