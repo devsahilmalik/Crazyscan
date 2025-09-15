@@ -12,4 +12,4 @@ It allows you to specify an IP address, scan common or custom ports, and adjust 
 
 ## Usage
 ```bash
-python3 Crazyscan.py -i <target_ip> -p <ports> -t <timeout>
+python3 Crazyscan.py -i <target_ip> -p <ports> -t <timeout> -th <threads>
