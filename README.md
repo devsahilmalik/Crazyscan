@@ -9,7 +9,8 @@ It allows you to specify an IP address, scan common or custom ports, and adjust 
 - Support for custom port ranges or lists
 - Adjustable timeout for fast or deep scans
 - Simple command-line interface
+- multi threading and output file feature now included 
 
 ## Usage
 ```bash
-python3 Crazyscan.py -i <target_ip> -p <ports> -t <timeout> -th <threads>
+python3 Crazyscan.py -i <target_ip> -p <ports> -t <timeout> -th <threads> -o <output.txt>
